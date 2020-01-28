@@ -1,0 +1,11 @@
+{
+ "ssid":"SSID",
+ "password":"password",
+ "mqtt": {
+    "server": "192.168.1.2", 
+    "port": 1883,
+    "topic": "home/sensor",
+    "qos": 0,
+    "retain": false
+  }
+}

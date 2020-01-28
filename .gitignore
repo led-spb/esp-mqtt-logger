@@ -1,0 +1,4 @@
+venv
+firmware
+config.json
+*.mpy
